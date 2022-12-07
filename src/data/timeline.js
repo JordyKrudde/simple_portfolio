@@ -3,7 +3,7 @@ export default [
         year: 2022,
         title: 'Frontend developer @ Four Digits',
         duration: 'Nu',
-        details: 'Sinds december ben ik frontend developer bij Fourdigits in arnhem, Hier leer in vooral Javascript, react en django / wagtail',
+        details: 'Sinds december ben ik frontend developer bij Fourdigits in arnhem, Hier schrijf ik vooral SCSS, Javascript, react en django / wagtail',
     },
     {
         year: 2022,
