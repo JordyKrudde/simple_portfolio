@@ -12,8 +12,7 @@ function Intro() {
                 </p>
                 <p className="text-sm max-w-xl mb-6 font-semibold">
                 Mijn naam is Jordy Krudde, Ik ben 22 jaar oud en ik ben een junior web developer. 
-                Ik kom net vers uit de opleiding applicatieontwikkelaar aan het graafschapcollege. 
-                Op deze site kun je mijn vorige projecten en mijn skills bekijken.
+                Ik kom net vers uit mijn eindstage en ben sinds kort werkzaam bij Fourdigits als frontend developer
                 </p>
             </div>
         </section>
