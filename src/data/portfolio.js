@@ -1,20 +1,20 @@
 export default [
     {
-        year: 2018,
-        title: 'Title',
-        duration: '6 months',
+        project: 2018,
+        language: 'Title',
         description: 'Description',
+        git: '6 months',
     },
     {
-        year: 2017,
-        title: 'Title',
-        duration: '6 months',
+        project: 2018,
+        language: 'Title',
         description: 'Description',
+        git: '6 months',
     },
     {
-        year: 2017,
-        title: 'Title',
-        duration: '6 months',
+        project: 2018,
+        language: 'Title',
         description: 'Description',
+        git: '6 months',
     },
 ];

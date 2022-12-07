@@ -1,9 +1,12 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import './App.css'
+import React, { useEffect, useState } from 'react';
+import Contact from './components/Contact';
+import Footer from './components/Footer';
+import Intro from './components/Intro';
+import Portfolio from './components/Portfolio';
+import Timeline from './components/Timeline';
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [theme, setTheme] = useState(null);
 
   return (
     <div className="App">
